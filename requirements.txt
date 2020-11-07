@@ -1,0 +1,6 @@
+jupyter
+tensorflow
+opencv-python
+sklearn
+pandas
+matplotlib
